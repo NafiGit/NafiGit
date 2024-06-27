@@ -42,7 +42,7 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://nahfid.netlify.app"><img src="https://img.shields.io/badge/-kevinpatel.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://nahfid.netlify.app"><img src="https://img.shields.io/badge/-nahfid.netlify.app-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/nahfid">
     <img src="https://img.shields.io/badge/Nahfid%20Nissar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
