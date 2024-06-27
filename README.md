@@ -47,5 +47,6 @@
     <img src="https://img.shields.io/badge/Nahfid%20Nissar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:nissarnahfid@gmail.com"><img src="https://img.shields.io/badge/-nissarnahfid@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.leetcode.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-</p>
+<a href="https://leetcode.com/u/NafiGit/">
+    <img src="https://img.shields.io/badge/Nahfid%20Nissar-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a></p>
