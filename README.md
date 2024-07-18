@@ -5,9 +5,24 @@
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BNafiGit04%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NafiGit&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=NafiGit&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=NafiGit&theme=chartreuse-dark"></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NafiGit&layout=compact&hide=TSQL&theme=dark">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NafiGit&count_private=true&show_icons=true&&theme=dark&include_all_commits=true" width="400">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NafiGit&theme=dark">
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NafiGit&theme=darkhub">
+</p>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=NafiGit&theme=github">
+</p>
+<p align="center">
+  <img src="https://github.com/NafiGit/NafiGit/blob/output/github-contribution-grid-snake.svg">
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 
