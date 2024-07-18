@@ -8,7 +8,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NafiGit&theme=darkhub">
 </p>
-![GitHub Snake](https://github.com/NafiGit/NafiGit/blob/output/github-contribution-grid-snake.svg)
+![trophy](https://github-profile-trophy.vercel.app/?username=NafiGit&theme=algolia)
+
 
 
 ### 🛠 &nbsp;Tech Stack
