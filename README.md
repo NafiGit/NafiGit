@@ -1,7 +1,7 @@
 <h3 align="center">Hi  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">  I am Nahfid Nissar. I 💙 Software Development</h3>
 
 ### 👨‍💻 About Me
-A passionate software developer and fintech enthusiast. I'm based in Andhra Pradesh, India, and my work revolves around developing innovative solutions in web development, cloud technologies, and educational tech.
+A passionate software developer and fintech enthusiast. My work revolves around developing innovative solutions in web development, cloud technologies, and educational tech.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Nahfid%20Nissar-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nahfid)
 [![Email Badge](https://img.shields.io/badge/-nissarnahfid@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:nissarnahfid@gmail.com)
