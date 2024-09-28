@@ -1,19 +1,24 @@
+# Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Nahfid Nissar
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Nahfid Nissar </h1>
-
-<p align="center" width="150px"> I am a Software Intern at a Fintech Company.</p>
+<p align="center"> I am a Software Intern at a Fintech Company.</p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BNafiGit04%7D/count.svg" alt="visitor badge"/></p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NafiGit&theme=darkhub">
 </p>
 
+## 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NafiGit&show_icons=true&theme=radical" alt="Nahfid's GitHub stats">
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NafiGit&theme=dark" alt="Nahfid's GitHub streak">
+</p>
 
-
-### 🛠 &nbsp;Tech Stack
-
+## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
@@ -42,8 +47,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
 
-### :link: &nbsp;Connect with me
-
+## :link: Connect with me
 <p align="center">
 <a href="https://nahfid.netlify.app"><img src="https://img.shields.io/badge/-nahfid.netlify.app-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/nahfid">
@@ -52,4 +56,5 @@
 <a href="mailto:nissarnahfid@gmail.com"><img src="https://img.shields.io/badge/-nissarnahfid@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/u/NafiGit/">
     <img src="https://img.shields.io/badge/Nahfid%20Nissar-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a></p>
+</a>
+</p>
