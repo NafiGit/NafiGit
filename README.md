@@ -11,23 +11,9 @@ A passionate software developer and fintech enthusiast. I'm based in Andhra Prad
 
 ### 🧑‍🏫 Experience
 
-#### Student Peer Mentor and Teaching Assistant | KL University - AP, IN
-*Apr 2024 - Present*
-- Assist and guide students in Digital Forensics, Python Full Stack Development with Django, LLMs, Cryptanalysis and Cyber Defense, and Programming for Smart Contracts.
-- Collaborate with faculty to create course material for workshops and hackathons.
-
-#### SDE Intern | CreditMitra - Hyderabad, TG, IN
-*Sep 2023 - Present*
-- Created creditmitra.in as a responsive website and hosted it in AWS using S3, Route53 and Cloudfront.
-- Implemented MERN backend - SEO, Chatbot, Email, and integrated CICD pipeline using Jenkins and Ansible on EC2.
-- Managed creditmitra.in Mail Servers and other DNS records for Google Analytics and Google Tag Manager.
-- Developed HRMS portal for all employees in MERN, used for attendance, payroll, offer letter, employee directory by company.
-
-#### Lead Surabhi Website | KL University - AP, IN
-*June 2021 - May 2024*
-- Led twelve developers to create eight innovative websites for KL's cultural fest Surabhi using Django REST, Vue.js and React.js.
-- Developed a 3D website using THREE.js and CANNON.js with custom models, shaders and sounds.
-- Configured Nginx to work with Gunicorn and Django and deployed on Digital Ocean.
+- **SDE Intern** - CreditMitra | Hyderabad, India - Onsite (Sep 2023 - Present)
+- **Lead Surabhi Website** | KL University, India (June 2021 - May 2024)
+- **Student Peer Mentor & Teaching Assistant** | KL University, India (Apr 2022 - Apr 2024)
 
 ---
 
