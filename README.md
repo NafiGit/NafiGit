@@ -11,7 +11,8 @@ A passionate software developer and fintech enthusiast. My work revolves around 
 
 ### 🧑‍🏫 Experience
 
-- **SDE Intern** - CreditMitra | Hyderabad, India - Onsite (Sep 2023 - Present)
+- **SDE Intern** - Nbyula | Hyderabad, India - Onsite (Dec 2024 - Present)
+- **SDE Intern** - CreditMitra | Hyderabad, India - Onsite (April 2023 - Sep 2024)
 - **Lead Surabhi Website** | KL University, India (Sep 2023 - May 2024)
 - **Student Peer Mentor & Teaching Assistant** | KL University, India (Apr 2022 - Apr 2024)
 
