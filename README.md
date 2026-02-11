@@ -17,7 +17,7 @@ A passionate full stack developer with expertise in web development, cloud techn
 
 ### 🧑‍🏫 Experience
 
-- **SDE Intern** - Nbyula | Bangalore, India (Dec 2024 - Present)
+- **Software Engineer** - Nbyula | Bangalore, India (Dec 2024 - Present)
   - Improved UI flow by reducing clicks for SOP and Essay pages with direct Razorpay access, creating INR 50k in product-led sales.
   - Created a Langsmith AI agent with whatsappweb.js to warn disengaged leads using custom messages based on their CRM data.
   - Developed OpenAI Agent for Gmail and Nbyula's Instagram using Mongoose backend, converting Instagram leads.
@@ -42,11 +42,11 @@ A passionate full stack developer with expertise in web development, cloud techn
 - **nbyula.com** - Website for Skillzens Without Borders, a study abroad consultancy.
 - **creditmitra.in** - Website for a FinTech Digital Lending company.
 - **ulukki.com** - Full-stack e-commerce fashion startup website in MERN, Redis, and AWS.
-- **Shoplio.tech** - A Next.js blog website on LLM hosted in AWS.
+- **blogllm.tech** - A Next.js blog website on LLM hosted in AWS.
 - **Surabhi Website** - KL University's main cultural fest website in Django, Three.js, and React.
-- **LF Comicos Website** - Website for Stand Up Comedy Club.
+- **El Comicos Website** - Website for Stand Up Comedy Club.
 - **E-Commerce Comparison** - Comparison website for similar products from Flipkart and Amazon.
-- **AudiDC** - A compliance and audit platform to manage and execute CIS benchmark scripts.
+- **AuditX** - A compliance and audit platform to manage and execute CIS benchmark scripts.
 - **Cryptojacking Visualization** - Visualization of cryptojacking's evolution using NLP.
 - **Item App** - App to display items with sorting and pagination in Angular.
 - **Sabooz App** - React Native app with Haircut Simulation using Mediapipe.
