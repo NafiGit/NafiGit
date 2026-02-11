@@ -5,6 +5,7 @@ A passionate full stack developer with expertise in web development, cloud techn
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Nahfid%20Nissar-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nahfid)
 [![Email Badge](https://img.shields.io/badge/-nissarnahfid@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:nissarnahfid@gmail.com)
+[![LeetCode Badge](https://img.shields.io/badge/-NafiGit-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/NafiGit/)
 [![GitHub Badge](https://img.shields.io/badge/-NafiGit-181717?style=flat&logo=github&logoColor=white)](https://github.com/NafiGit)
 
 ---
