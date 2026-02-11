@@ -12,8 +12,7 @@ A passionate software developer and fintech enthusiast. My work revolves around 
 
 ### 🎓 Education
 
-- **B.Tech in Computer Science and Engineering** - KL University | CGPA: 8.96 (Jun 2021 - Jun 2025)
-- **Intermediate (MPC)** - Sri Chaitanya Jr. College | Percentage: 93.8% (Jun 2019 - Mar 2021)
+- **B.Tech in Computer Science and Engineering** - KL University | CGPA: 9.13 (Jun 2021 - Jun 2025)
 
 ---
 
