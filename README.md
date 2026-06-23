@@ -11,21 +11,22 @@
 
 ---
 
-I build the infrastructure that makes AI agents reliable in production — agent harnesses, self-correcting loops, RLHF pipelines, and the evals around them. Currently an SDE at **Nbyula**. Published in IEEE; researching LLM safety and low-resource NLP.
+I build the infrastructure that makes AI agents reliable in production: agent harnesses, self-correcting loops, RLHF pipelines, and the evals around them. Currently an SDE at **Nbyula**. Published in IEEE; researching LLM safety and low-resource NLP.
 
 ### Selected work
 
-- **[Portfolio →](https://nahfid.vercel.app)** — with an AI assistant that answers questions about my work
-- **[awesome-rl-environments](https://github.com/NafiGit/awesome-rl-environments)** — a curated list of RL environments, from classic control to LLM-agent training
-- **Nbyula** — autonomous messaging &amp; browser agents, a content-moderation pipeline (fine-tuned model + LLM-as-judge), and an RLHF annotation &amp; eval loop
-- **CreditMitra** — built [creditmitra.in](https://creditmitra.in) end-to-end (MERN, AWS, CI/CD)
+- **[Portfolio](https://nahfid.vercel.app)** with an AI assistant that answers questions about my work
+- **[awesome-rl-environments](https://github.com/NafiGit/awesome-rl-environments)**, a curated list of RL environments from classic control to LLM-agent training
+- **Minecraft AI Agent Layer** (Emergent AI Hackathon), 5 autonomous agents competing in a build-off on a custom harness with pathfinding, patrol loops, and event tracking
+- **Browser Automation Filing Agent** that navigates and fills multi-step web forms across external portals, self-correcting on errors (Browser Use + Claude Agent SDK + LangGraph)
+- **Nbyula:** autonomous messaging &amp; browser agents, a content-moderation pipeline (fine-tuned model + LLM-as-judge), and an RLHF annotation &amp; eval loop
+- **CreditMitra:** built [creditmitra.in](https://creditmitra.in) end-to-end (MERN, AWS, CI/CD)
 
 ### Research
 
-- *Novel Attack Vector to Abuse AWS for Cryptojacking* — IEEE **ICAAIC 2024**
-- *Navigating the Cloud: Emerging Trends in Security* — IEEE **ICSSAS 2024**
-- *Koshur Diacritizer: Byte-Level Seq2Seq for Kashmiri Diacritic Restoration* — [arXiv](https://arxiv.org/abs/2606.15883) *(co-author)*
-- *In progress* — software-package hallucinations in LLMs · a Kashmiri pretraining corpus
+- *Novel Attack Vector to Abuse AWS for Cryptojacking*, IEEE **ICAAIC 2024**
+- *Navigating the Cloud: Emerging Trends in Security*, IEEE **ICSSAS 2024**
+- *Koshur Diacritizer: Byte-Level Seq2Seq for Kashmiri Diacritic Restoration*, [arXiv](https://arxiv.org/abs/2606.15883) *(co-author)*
 
 ### Stack
 
